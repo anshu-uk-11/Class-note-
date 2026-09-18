@@ -1,0 +1,6 @@
+{
+  "name": "Class Notes Hub",
+  "description": "Academic class notes, study materials, previous year papers, and subject resources hub for college students and faculty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
